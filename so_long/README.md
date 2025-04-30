@@ -4,8 +4,6 @@
 
 Here's a **README.md** for your **So_long** project:
 
-![Screenshot_2025-04-30_13-54-06](https://github.com/user-attachments/assets/f46b8eee-20a8-446c-93c8-7dc7ed248ca1)
-
 Your **README.md** is ready! Let me know if you want any modifications. 🚀
 
 A 2D game built with **MiniLibX**. Navigate the map, collect all items, and escape!  
